@@ -1,0 +1,14 @@
+{
+  "payments": {
+    "owner": "payments-team",
+    "contact": "payments-team@company.com"
+  },
+  "analytics": {
+    "owner": "analytics-team",
+    "contact": "analytics-team@company.com"
+  },
+  "checkout": {
+    "owner": "checkout-team",
+    "contact": "checkout-team@company.com"
+  }
+}
