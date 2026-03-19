@@ -1,0 +1,23 @@
+[
+  {
+    "driver": "EC2",
+    "issue": "Idle instance",
+    "resource": "i-12345",
+    "service": "payments",
+    "estimated_monthly_savings": 320
+  },
+  {
+    "driver": "S3",
+    "issue": "Unused storage volume",
+    "resource": "s3://analytics-archive",
+    "service": "analytics",
+    "estimated_monthly_savings": 150
+  },
+  {
+    "driver": "RDS",
+    "issue": "Underutilized database",
+    "resource": "db-prod-01",
+    "service": "checkout",
+    "estimated_monthly_savings": 500
+  }
+]
